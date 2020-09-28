@@ -1,0 +1,405 @@
+{
+    "meta": {
+        "width": 4096,
+        "height": 2048,
+        "image": "a (13).png"
+    },
+    "frames": {
+        "src/features/gui/spritesheets/a (13)/0.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/1.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/10.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/11.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/12.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/13.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/14.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/15.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/16.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/17.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/18.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/19.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/2.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/20.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/21.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/22.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 285
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/23.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/24.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/25.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/26.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/27.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/28.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/29.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/3.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 568
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/30.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/31.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/32.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/4.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/5.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/6.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/7.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/8.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 851
+            }
+        },
+        "src/features/gui/spritesheets/a (13)/9.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 1134
+            }
+        }
+    }
+}

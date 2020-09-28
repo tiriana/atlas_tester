@@ -1,0 +1,1473 @@
+{
+    "meta": {
+        "width": 2048,
+        "height": 1024,
+        "image": "a (2).png"
+    },
+    "frames": {
+        "src/features/gui/spritesheets/a (2)/particles/flares/1.png": {
+            "sourceSize": {
+                "h": 512,
+                "w": 512
+            },
+            "frame": {
+                "h": 512,
+                "w": 512,
+                "x": 2,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fastforward.png": {
+            "sourceSize": {
+                "h": 269,
+                "w": 324
+            },
+            "frame": {
+                "h": 269,
+                "w": 324,
+                "x": 516,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/flares/4.png": {
+            "sourceSize": {
+                "h": 200,
+                "w": 200
+            },
+            "frame": {
+                "h": 200,
+                "w": 200,
+                "x": 842,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/flares/beam.png": {
+            "sourceSize": {
+                "h": 163,
+                "w": 501
+            },
+            "frame": {
+                "h": 163,
+                "w": 501,
+                "x": 1044,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/green/base.png": {
+            "sourceSize": {
+                "h": 155,
+                "w": 159
+            },
+            "frame": {
+                "h": 155,
+                "w": 159,
+                "x": 1547,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/green/hover.png": {
+            "sourceSize": {
+                "h": 155,
+                "w": 159
+            },
+            "frame": {
+                "h": 155,
+                "w": 159,
+                "x": 1708,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/green/pressed.png": {
+            "sourceSize": {
+                "h": 155,
+                "w": 159
+            },
+            "frame": {
+                "h": 155,
+                "w": 159,
+                "x": 1869,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/spin/base.png": {
+            "sourceSize": {
+                "h": 155,
+                "w": 159
+            },
+            "frame": {
+                "h": 155,
+                "w": 159,
+                "x": 516,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/spin/hover.png": {
+            "sourceSize": {
+                "h": 155,
+                "w": 159
+            },
+            "frame": {
+                "h": 155,
+                "w": 159,
+                "x": 677,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/spin/pressed.png": {
+            "sourceSize": {
+                "h": 155,
+                "w": 159
+            },
+            "frame": {
+                "h": 155,
+                "w": 159,
+                "x": 838,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/purple/base.png": {
+            "sourceSize": {
+                "h": 154,
+                "w": 159
+            },
+            "frame": {
+                "h": 154,
+                "w": 159,
+                "x": 999,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/purple/hover.png": {
+            "sourceSize": {
+                "h": 154,
+                "w": 159
+            },
+            "frame": {
+                "h": 154,
+                "w": 159,
+                "x": 1160,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/purple/pressed.png": {
+            "sourceSize": {
+                "h": 154,
+                "w": 159
+            },
+            "frame": {
+                "h": 154,
+                "w": 159,
+                "x": 1321,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/52.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 92
+            },
+            "frame": {
+                "h": 138,
+                "w": 92,
+                "x": 1482,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/50.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 86
+            },
+            "frame": {
+                "h": 138,
+                "w": 86,
+                "x": 1576,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/54.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 85
+            },
+            "frame": {
+                "h": 138,
+                "w": 85,
+                "x": 1664,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/57.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 85
+            },
+            "frame": {
+                "h": 138,
+                "w": 85,
+                "x": 1751,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/56.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 84
+            },
+            "frame": {
+                "h": 138,
+                "w": 84,
+                "x": 1838,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/55.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 81
+            },
+            "frame": {
+                "h": 138,
+                "w": 81,
+                "x": 1924,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/51.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 75
+            },
+            "frame": {
+                "h": 138,
+                "w": 75,
+                "x": 2,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/53.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 75
+            },
+            "frame": {
+                "h": 138,
+                "w": 75,
+                "x": 79,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/49.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 51
+            },
+            "frame": {
+                "h": 138,
+                "w": 51,
+                "x": 156,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/44.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 27
+            },
+            "frame": {
+                "h": 138,
+                "w": 27,
+                "x": 2007,
+                "y": 273
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/46.png": {
+            "sourceSize": {
+                "h": 138,
+                "w": 27
+            },
+            "frame": {
+                "h": 138,
+                "w": 27,
+                "x": 209,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/big_win/48.png": {
+            "sourceSize": {
+                "h": 134,
+                "w": 90
+            },
+            "frame": {
+                "h": 134,
+                "w": 90,
+                "x": 238,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/start/base.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 334
+            },
+            "frame": {
+                "h": 84,
+                "w": 334,
+                "x": 516,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/start/hover.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 334
+            },
+            "frame": {
+                "h": 84,
+                "w": 334,
+                "x": 852,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/start/pressed.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 334
+            },
+            "frame": {
+                "h": 84,
+                "w": 334,
+                "x": 1188,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/auto/base.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 1524,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/auto/checked.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 1610,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/auto/decor.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 1696,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/auto/hover.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 1782,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/auto/pressed.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 1868,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/home/base.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 1954,
+                "y": 430
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/home/hover.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 330,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/home/pressed.png": {
+            "sourceSize": {
+                "h": 84,
+                "w": 84
+            },
+            "frame": {
+                "h": 84,
+                "w": 84,
+                "x": 416,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/continue/base.png": {
+            "sourceSize": {
+                "h": 83,
+                "w": 396
+            },
+            "frame": {
+                "h": 83,
+                "w": 396,
+                "x": 502,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/continue/hover.png": {
+            "sourceSize": {
+                "h": 83,
+                "w": 396
+            },
+            "frame": {
+                "h": 83,
+                "w": 396,
+                "x": 900,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/continue/pressed.png": {
+            "sourceSize": {
+                "h": 83,
+                "w": 396
+            },
+            "frame": {
+                "h": 83,
+                "w": 396,
+                "x": 1298,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/smoke/2.png": {
+            "sourceSize": {
+                "h": 82,
+                "w": 98
+            },
+            "frame": {
+                "h": 82,
+                "w": 98,
+                "x": 1696,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_00.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1796,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_01.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 2,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_02.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 204,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_03.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 406,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_04.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 608,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_05.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 810,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_06.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1012,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_07.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1214,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_08.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1416,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_09.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1618,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_10.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1820,
+                "y": 656
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_11.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 2,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_12.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 204,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_13.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 406,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_14.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 608,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_15.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 810,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_16.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1012,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_17.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1214,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_18.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1416,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_19.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1618,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_20.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1820,
+                "y": 738
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_21.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 2,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_22.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 204,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_23.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 406,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_24.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 608,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_25.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 810,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_26.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1012,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_27.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1214,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_28.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1416,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_29.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1618,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_30.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1820,
+                "y": 820
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_31.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 2,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_32.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 204,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_33.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 406,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_34.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 608,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_35.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 810,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/indsats_animation/indsats_36.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 200
+            },
+            "frame": {
+                "h": 80,
+                "w": 200,
+                "x": 1012,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/smoke/1.png": {
+            "sourceSize": {
+                "h": 80,
+                "w": 80
+            },
+            "frame": {
+                "h": 80,
+                "w": 80,
+                "x": 1214,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/smoke/3.png": {
+            "sourceSize": {
+                "h": 77,
+                "w": 78
+            },
+            "frame": {
+                "h": 77,
+                "w": 78,
+                "x": 1296,
+                "y": 902
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/big_win_kr.png": {
+            "sourceSize": {
+                "h": 64,
+                "w": 137
+            },
+            "frame": {
+                "h": 64,
+                "w": 137,
+                "x": 842,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/blobs/1.png": {
+            "sourceSize": {
+                "h": 64,
+                "w": 64
+            },
+            "frame": {
+                "h": 64,
+                "w": 64,
+                "x": 981,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/blobs/2.png": {
+            "sourceSize": {
+                "h": 64,
+                "w": 64
+            },
+            "frame": {
+                "h": 64,
+                "w": 64,
+                "x": 1047,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/blobs/3.png": {
+            "sourceSize": {
+                "h": 64,
+                "w": 64
+            },
+            "frame": {
+                "h": 64,
+                "w": 64,
+                "x": 1113,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/plus.png": {
+            "sourceSize": {
+                "h": 62,
+                "w": 62
+            },
+            "frame": {
+                "h": 62,
+                "w": 62,
+                "x": 1179,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/arrow_down/base.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1243,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/arrow_down/hover.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1295,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/arrow_down/pressed.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1347,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/arrow_up/base.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1399,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/arrow_up/hover.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1451,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/arrow_up/pressed.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1503,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/info/base.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1555,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/info/hover.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1607,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/buttons/info/pressed.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1659,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/flares/2.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1711,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/flares/3.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1763,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/particles/flares/5.png": {
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "frame": {
+                "h": 50,
+                "w": 50,
+                "x": 1815,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/52.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 25
+            },
+            "frame": {
+                "h": 36,
+                "w": 25,
+                "x": 1867,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/48.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 24
+            },
+            "frame": {
+                "h": 36,
+                "w": 24,
+                "x": 1894,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/50.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 23
+            },
+            "frame": {
+                "h": 36,
+                "w": 23,
+                "x": 1920,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/54.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 23
+            },
+            "frame": {
+                "h": 36,
+                "w": 23,
+                "x": 1945,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/56.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 23
+            },
+            "frame": {
+                "h": 36,
+                "w": 23,
+                "x": 1970,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/57.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 23
+            },
+            "frame": {
+                "h": 36,
+                "w": 23,
+                "x": 1995,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/55.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 22
+            },
+            "frame": {
+                "h": 36,
+                "w": 22,
+                "x": 2020,
+                "y": 204
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/51.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 21
+            },
+            "frame": {
+                "h": 36,
+                "w": 21,
+                "x": 1998,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/53.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 20
+            },
+            "frame": {
+                "h": 36,
+                "w": 20,
+                "x": 2021,
+                "y": 516
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/49.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 14
+            },
+            "frame": {
+                "h": 36,
+                "w": 14,
+                "x": 2030,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/44.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 7
+            },
+            "frame": {
+                "h": 36,
+                "w": 7,
+                "x": 2030,
+                "y": 40
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/credits/46.png": {
+            "sourceSize": {
+                "h": 36,
+                "w": 7
+            },
+            "frame": {
+                "h": 36,
+                "w": 7,
+                "x": 2039,
+                "y": 40
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/48.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 24
+            },
+            "frame": {
+                "h": 35,
+                "w": 24,
+                "x": 1044,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/52.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 24
+            },
+            "frame": {
+                "h": 35,
+                "w": 24,
+                "x": 1070,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/50.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 23
+            },
+            "frame": {
+                "h": 35,
+                "w": 23,
+                "x": 1096,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/54.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 23
+            },
+            "frame": {
+                "h": 35,
+                "w": 23,
+                "x": 1121,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/56.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 23
+            },
+            "frame": {
+                "h": 35,
+                "w": 23,
+                "x": 1146,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/57.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 23
+            },
+            "frame": {
+                "h": 35,
+                "w": 23,
+                "x": 1171,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/55.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 22
+            },
+            "frame": {
+                "h": 35,
+                "w": 22,
+                "x": 1196,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/51.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 21
+            },
+            "frame": {
+                "h": 35,
+                "w": 21,
+                "x": 1220,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/53.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 20
+            },
+            "frame": {
+                "h": 35,
+                "w": 20,
+                "x": 1243,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/fonts/free_spins/49.png": {
+            "sourceSize": {
+                "h": 35,
+                "w": 15
+            },
+            "frame": {
+                "h": 35,
+                "w": 15,
+                "x": 2030,
+                "y": 78
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/credits_label.png": {
+            "sourceSize": {
+                "h": 18,
+                "w": 78
+            },
+            "frame": {
+                "h": 18,
+                "w": 78,
+                "x": 1265,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/bet_label.png": {
+            "sourceSize": {
+                "h": 18,
+                "w": 77
+            },
+            "frame": {
+                "h": 18,
+                "w": 77,
+                "x": 1345,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/kr.png": {
+            "sourceSize": {
+                "h": 17,
+                "w": 27
+            },
+            "frame": {
+                "h": 17,
+                "w": 27,
+                "x": 1424,
+                "y": 167
+            }
+        },
+        "src/features/gui/spritesheets/a (2)/square.png": {
+            "sourceSize": {
+                "h": 10,
+                "w": 10
+            },
+            "frame": {
+                "h": 10,
+                "w": 10,
+                "x": 2030,
+                "y": 115
+            }
+        }
+    }
+}

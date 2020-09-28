@@ -1,0 +1,7209 @@
+{
+    "meta": {
+        "width": 4096,
+        "height": 2048,
+        "image": "numbers_big.png"
+    },
+    "frames": {
+        "src/features/aaaa/spritesheets/numbers_big/0/0.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/1.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/10.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/100.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/101.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/102.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/103.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/104.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/105.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/106.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/107.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/108.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/109.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/11.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/110.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/111.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/112.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/113.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/114.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/115.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/116.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/117.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/118.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/119.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/12.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/13.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/14.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/15.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/16.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/17.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/18.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/19.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/2.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/20.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/21.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/22.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/23.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/24.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/25.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/26.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/27.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/28.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/29.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/3.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/30.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/31.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/32.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/33.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/34.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/35.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/36.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/37.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/38.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/39.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/4.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/40.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/41.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/42.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/43.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/44.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/45.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/46.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/47.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/48.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/49.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/5.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/50.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/51.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/52.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/53.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/54.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/55.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/56.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/57.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/58.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/59.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/6.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/60.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/61.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/62.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/63.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/64.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/65.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/66.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/67.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/68.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/69.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/7.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 94
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/70.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/71.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/72.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/73.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/74.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/75.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/76.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/77.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/78.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/79.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/8.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/80.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/81.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/82.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/83.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/84.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/85.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/86.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/87.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/88.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/89.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/9.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/90.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/91.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/92.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/93.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/94.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/95.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/96.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/97.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/98.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/0/99.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/0.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/1.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/10.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/100.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/101.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/102.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/103.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/104.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/105.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/106.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/107.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/108.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 186
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/109.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/11.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/110.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/111.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/112.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/113.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/114.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/115.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/116.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/117.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/118.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/119.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/12.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/13.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/14.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/15.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/16.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/17.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/18.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/19.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/2.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/20.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/21.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/22.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/23.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/24.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/25.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/26.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/27.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/28.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/29.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/3.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/30.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/31.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/32.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/33.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/34.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/35.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/36.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/37.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/38.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/39.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/4.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/40.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 278
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/41.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/42.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/43.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/44.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/45.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/46.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/47.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/48.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/49.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/5.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/50.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/51.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/52.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/53.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/54.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/55.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/56.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/57.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/58.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/59.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/6.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/60.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/61.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/62.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/63.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/64.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/65.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/66.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/67.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/68.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/69.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/7.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/70.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/71.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/72.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/73.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/74.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/75.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/76.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/77.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/78.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/79.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/8.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/80.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 370
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/81.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/82.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/83.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/84.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/85.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/86.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/87.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/88.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/89.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/9.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/90.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/91.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/92.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/93.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/94.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/95.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/96.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/97.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/98.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/1/99.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/0.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/1.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/10.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/100.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/101.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/102.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/103.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/104.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/105.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/106.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/107.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/108.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/109.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/11.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/110.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/111.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/112.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/113.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/114.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/115.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/116.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/117.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/118.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/119.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 462
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/12.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/13.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/14.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/15.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/16.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/17.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/18.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/19.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/2.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/20.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/21.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/22.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/23.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/24.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/25.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/26.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/27.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/28.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/29.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/3.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/30.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/31.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/32.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/33.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/34.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/35.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/36.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/37.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/38.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/39.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/4.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/40.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/41.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/42.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/43.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/44.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/45.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/46.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/47.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/48.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/49.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/5.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/50.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/51.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 554
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/52.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/53.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/54.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/55.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/56.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/57.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/58.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/59.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/6.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/60.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/61.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/62.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/63.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/64.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/65.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/66.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/67.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/68.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/69.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/7.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/70.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/71.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/72.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/73.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/74.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/75.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/76.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/77.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/78.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/79.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/8.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/80.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/81.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/82.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/83.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/84.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/85.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/86.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/87.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/88.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/89.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/9.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/90.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/91.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 646
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/92.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/93.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/94.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/95.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/96.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/97.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/98.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/2/99.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/0.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/1.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/10.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/100.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/101.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/102.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/103.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/104.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/105.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/106.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/107.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/108.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/109.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/11.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/110.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/111.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/112.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/113.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/114.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/115.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/116.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/117.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/118.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/119.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/12.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/13.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/14.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/15.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/16.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/17.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/18.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/19.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/2.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/20.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/21.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/22.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 738
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/23.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/24.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/25.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/26.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/27.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/28.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/29.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/3.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/30.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/31.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/32.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/33.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/34.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/35.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/36.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/37.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/38.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/39.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/4.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/40.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/41.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/42.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/43.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/44.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/45.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/46.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/47.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/48.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/49.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/5.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/50.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/51.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/52.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/53.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/54.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/55.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/56.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/57.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/58.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/59.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/6.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/60.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/61.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/62.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 830
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/63.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/64.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/65.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/66.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/67.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/68.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/69.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/7.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/70.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/71.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/72.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/73.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/74.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/75.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/76.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/77.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/78.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/79.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/8.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/80.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/81.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/82.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/83.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/84.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/85.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/86.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/87.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/88.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/89.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/9.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/90.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/91.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/92.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/93.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/94.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/95.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/96.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/97.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/98.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/3/99.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/0.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/1.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/10.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/100.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 922
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/101.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/102.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/103.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/104.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/105.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/106.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/107.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/108.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/109.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/11.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/110.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/111.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/112.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/113.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/114.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/115.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/116.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/117.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/118.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/119.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/12.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/13.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/14.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/15.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/16.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/17.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/18.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/19.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/2.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/20.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/21.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/22.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/23.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/24.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/25.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/26.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/27.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/28.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/29.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/3.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/30.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/31.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/32.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/33.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 1014
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/34.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/35.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/36.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/37.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/38.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/39.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/4.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/40.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/41.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/42.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/43.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/44.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/45.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/46.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/47.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/48.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/49.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/5.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/50.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/51.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/52.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/53.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/54.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/55.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/56.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/57.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/58.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/59.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/6.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2578,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/60.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2670,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/61.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2762,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/62.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2854,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/63.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2946,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/64.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3038,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/65.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3130,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/66.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3222,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/67.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3314,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/68.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3406,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/69.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3498,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/7.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3590,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/70.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3682,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/71.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3774,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/72.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3866,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/73.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 3958,
+                "y": 1106
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/74.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/75.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 94,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/76.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 186,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/77.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 278,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/78.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 370,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/79.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 462,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/8.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 554,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/80.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 646,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/81.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 738,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/82.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 830,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/83.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 922,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/84.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1014,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/85.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1106,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/86.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1198,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/87.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1290,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/88.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1382,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/89.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1474,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/9.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1566,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/90.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1658,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/91.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1750,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/92.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1842,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/93.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 1934,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/94.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2026,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/95.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2118,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/96.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2210,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/97.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2302,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/98.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2394,
+                "y": 1198
+            }
+        },
+        "src/features/aaaa/spritesheets/numbers_big/4/99.png": {
+            "sourceSize": {
+                "h": 90,
+                "w": 90
+            },
+            "frame": {
+                "h": 90,
+                "w": 90,
+                "x": 2486,
+                "y": 1198
+            }
+        }
+    }
+}

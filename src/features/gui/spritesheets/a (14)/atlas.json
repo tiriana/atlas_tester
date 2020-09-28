@@ -1,0 +1,8 @@
+{
+    "format": "jpg",
+    "jpegQuality": 90,
+    "background": "000000",
+    "border": 0,
+    "padding": 0,
+    "cropBlack": true
+}

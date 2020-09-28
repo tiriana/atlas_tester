@@ -1,0 +1,405 @@
+{
+    "meta": {
+        "width": 4096,
+        "height": 2048,
+        "image": "implo (6).png"
+    },
+    "frames": {
+        "src/features/aaaa/spritesheets/implo (6)/0.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/1.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/10.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/11.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/12.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/13.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/14.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/15.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/16.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/17.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/18.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/19.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/2.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/20.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/21.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/22.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 285
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/23.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/24.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/25.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/26.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/27.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/28.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/29.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/3.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 568
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/30.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/31.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 504,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/32.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1006,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/4.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 1508,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/5.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2010,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/6.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2512,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/7.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3014,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/8.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 3516,
+                "y": 851
+            }
+        },
+        "src/features/aaaa/spritesheets/implo (6)/9.png": {
+            "sourceSize": {
+                "h": 281,
+                "w": 500
+            },
+            "frame": {
+                "h": 281,
+                "w": 500,
+                "x": 2,
+                "y": 1134
+            }
+        }
+    }
+}

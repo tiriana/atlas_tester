@@ -1,0 +1,585 @@
+{
+    "meta": {
+        "width": 4096,
+        "height": 2048,
+        "image": "shockwave.png"
+    },
+    "frames": {
+        "src/features/aaaa/spritesheets/shockwave/0.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/1.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 484,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/10.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 966,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/11.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1448,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/12.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1930,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/13.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2412,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/14.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2894,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/15.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 3376,
+                "y": 2
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/16.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/17.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 484,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/18.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 966,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/19.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1448,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/2.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1930,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/20.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2412,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/21.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2894,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/22.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 3376,
+                "y": 274
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/23.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/24.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 484,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/25.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 966,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/26.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1448,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/27.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1930,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/28.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2412,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/29.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2894,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/3.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 3376,
+                "y": 546
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/30.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/31.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 484,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/32.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 966,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/33.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1448,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/34.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1930,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/35.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2412,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/36.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2894,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/37.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 3376,
+                "y": 818
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/38.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/39.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 484,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/4.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 966,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/40.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1448,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/41.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1930,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/42.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2412,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/43.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2894,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/44.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 3376,
+                "y": 1090
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/45.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/46.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 484,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/47.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 966,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/5.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1448,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/6.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 1930,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/7.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2412,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/8.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 2894,
+                "y": 1362
+            }
+        },
+        "src/features/aaaa/spritesheets/shockwave/9.jpg": {
+            "sourceSize": {
+                "h": 270,
+                "w": 480
+            },
+            "frame": {
+                "h": 270,
+                "w": 480,
+                "x": 3376,
+                "y": 1362
+            }
+        }
+    }
+}

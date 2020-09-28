@@ -1,0 +1,585 @@
+{
+    "meta": {
+        "width": 2048,
+        "height": 1024,
+        "image": "a.png"
+    },
+    "frames": {
+        "src/features/gui/spritesheets/a/0.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 2,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/1.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 244,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/10.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 486,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/11.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 728,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/12.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 970,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/13.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1212,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/14.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1454,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/15.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1696,
+                "y": 2
+            }
+        },
+        "src/features/gui/spritesheets/a/16.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 2,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/17.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 244,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/18.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 486,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/19.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 728,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/2.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 970,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/20.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1212,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/21.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1454,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/22.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1696,
+                "y": 139
+            }
+        },
+        "src/features/gui/spritesheets/a/23.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 2,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/24.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 244,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/25.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 486,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/26.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 728,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/27.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 970,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/28.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1212,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/29.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1454,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/3.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1696,
+                "y": 276
+            }
+        },
+        "src/features/gui/spritesheets/a/30.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 2,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/31.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 244,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/32.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 486,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/33.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 728,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/34.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 970,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/35.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1212,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/36.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1454,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/37.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1696,
+                "y": 413
+            }
+        },
+        "src/features/gui/spritesheets/a/38.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 2,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/39.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 244,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/4.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 486,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/40.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 728,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/41.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 970,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/42.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1212,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/43.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1454,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/44.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1696,
+                "y": 550
+            }
+        },
+        "src/features/gui/spritesheets/a/45.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 2,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/46.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 244,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/47.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 486,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/5.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 728,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/6.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 970,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/7.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1212,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/8.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1454,
+                "y": 687
+            }
+        },
+        "src/features/gui/spritesheets/a/9.jpg": {
+            "sourceSize": {
+                "h": 135,
+                "w": 240
+            },
+            "frame": {
+                "h": 135,
+                "w": 240,
+                "x": 1696,
+                "y": 687
+            }
+        }
+    }
+}
